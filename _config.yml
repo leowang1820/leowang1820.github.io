@@ -22,7 +22,7 @@ repository               : "leowang1820/leowang1820.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "picture.png"
+  avatar           : "profile.png"
   name             : "Chengye Wang | 王成烨"
   pronouns         : "he/his"  
   bio              : "I am currently pursuing my graduate studies at the School of Mechanical Engineering of Beijing Institute of Technology under the supervision of Assoc. Prof. Yechen Qin"
