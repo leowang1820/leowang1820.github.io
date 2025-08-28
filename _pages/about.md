@@ -27,7 +27,7 @@ I am very motivated and passionate about wheeled robot especially the use of lea
 
 - **[2024.9]** I was recommended for admission to Beijing Institute of Technology for graduate studies with the top 5% academic performance at Jilin University.
 
-:pencil2: Publications
+:rocket: Publications
 ======
 **Journal Papers**(Provide orginal text whenever possible)
 
