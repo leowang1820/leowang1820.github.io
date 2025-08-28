@@ -20,8 +20,8 @@ main:
   - title: "Talks"
     url: /talks/   
 
-  - title: "Honors and Awards"
-    url: /awards/   
+  # - title: "Honors and Awards"
+  #   url: /awards/   
 
 
   # - title: "Education"
