@@ -1,10 +1,7 @@
 ---
-layout: archive
-title: "Honors and Awards"
-permalink: /awards/
-author_profile: true
-redirect_from:
-  - /awards
+collection: awards
+type: "Honors and Awards"
+permalink: /awards/jilind
 ---
 
 {% include base_path %}
