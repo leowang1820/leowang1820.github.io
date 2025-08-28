@@ -19,7 +19,7 @@ I am very motivated and passionate about wheeled robot especially the use of lea
 ======
 
 
-- **[2024.8]** Our article [“基于动态稳定边界的智能车辆路径跟踪控制方法”]()（Intelligent vehicle path tracking control method based on dynamic stability boundary）has been accepted by 机械工程学报（Chinese Journal of Mechanical Engineering）！I provide a stable domain estimation method based on Lyapunov function(LF) for the path-tracking controller.
+- **[2024.8]** Our article [“基于动态稳定边界的智能车辆路径跟踪控制方法”]()（Dynamic Region of Stability Integrated Path-tracking Control for Intelligent Vehicles）has been accepted by 机械工程学报（Chinese Journal of Mechanical Engineering）！I provide a stable domain estimation method based on Lyapunov function(LF) for the path-tracking controller.
   
 - **[2024.7]** Our team designed a Four-wheel independent drive electric vehicle. I designed the algorithm architecture of steering, driving and braking modules which can be controlled either via a remote control or manually. Despite weighing only 300kg, we achieved a speed of over 50 km/h and the ability to climb a steep slope of 30°！[Here]() is part vedio.
   
