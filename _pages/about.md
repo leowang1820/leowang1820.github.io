@@ -41,7 +41,7 @@ I am very motivated and passionate about wheeled robot especially the use of lea
 
 :open_book: Educations
 ------
-- **[2024.09-2027.06]**, Graduate, School of Mechanical Engneering, Beijing Institute of Technology, Beijing, China. direct admission
+- **[2024.09-2027.06]**, Graduate, School of Mechanical Engneering, Beijing Institute of Technology, Beijing, China. 
   
 - **[2020.09-2024.06]**, Undergraduate, College of Automotive Engneering, Jilin University, Changchun, China. GPA:3.75/4.0
 
