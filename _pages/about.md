@@ -11,11 +11,9 @@ Hello! My name is Chengye Wang, and i am a graduate student at the [School of Me
 
 I got my Bachelor's degree at the [College of Automotive Engneering](https://auto.jlu.edu.cn/) of [Jilin University](https://www.jlu.edu.cn/) in 2024 under the supervison of Prof.[Nan Xu](https://auto.jlu.edu.cn/info/1306/5519.htm).
 
-My research interests focuse on path planning and stability control especially under extreme scenarios. Based on traditional vehicle dynamic method, i am now thrilled to apply the advanced technology such as machine learning into improving the motion performance under complex envrionments.  
+My research interests focuse on path planning and stability control of CAVs especially under extreme scenarios. Based on traditional vehicle dynamic method, i am now thrilled to try to apply the advanced technology such as machine learning into improving the motion performance under complex envrionments. 
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am very motivated and passionate about wheeled robot especially the use of learning-based methods. I am now open to PhD positions especially in decions-making and control of autonomous vehicle. Please feel free to reach out!
 
 A data-driven personal website
 ======
