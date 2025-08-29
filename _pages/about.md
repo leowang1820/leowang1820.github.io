@@ -11,7 +11,7 @@ Hello! My name is Chengye Wang, and i am a graduate student at the [School of Me
 
 I got my Bachelor's degree at the [College of Automotive Engneering](https://auto.jlu.edu.cn/) of [Jilin University](https://www.jlu.edu.cn/) under the supervison of Prof.[Nan Xu](https://auto.jlu.edu.cn/info/1306/5519.htm) in 2024.
 
-My research interests focuse on path planning and stability control of CAVs especially under extreme scenarios. Based on traditional vehicle dynamic method, i am now thrilled to try to apply the advanced technology such as machine learning into improving the motion performance under complex envrionments. 
+My research interests focus on path planning and stability control of CAVs especially under extreme scenarios. Based on traditional vehicle dynamic method, i am now thrilled to try to apply the advanced technology such as machine learning into improving the motion performance under complex envrionments. 
 
 I am very motivated and passionate about wheeled robot especially the use of learning-based methods. I am now open to PhD positions especially in decions-making and control of autonomous vehicle. Please feel free to reach out!
 
