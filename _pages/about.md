@@ -31,9 +31,9 @@ I am very motivated and passionate about wheeled robot especially the use of lea
 ======
 **Journal Papers**(Provide orginal text whenever possible)
 
-1. 张钰, **王成烨**, 杜甫, 董明明，秦也辰 and 毛明. ["Dynamic Region of Stability Integrated Path-tracking Control for Intelligent Vehicles"](https://leowang1820.github.io/files/2025-0035-revised.pdf),Journal of Mechanical Engineering .(**Accepted**)
+1. 张钰, **王成烨**, 杜甫, 董明明，秦也辰 and 毛明. ["Dynamic Region of Stability Integrated Path-tracking Control for Intelligent Vehicles"](https://leowang1820.github.io/files/2025-0035-revised.pdf), Chinese Journal of Mechanical Engineering. (**Accepted**, **IF=4.5, Q1**)
 
-2. Hu, XuePeng; Zhang, Yu; **Wang, Chengye**; Wang, Zhenfeng; Qin, Yechen"MCTP: A Multi-Coupled Dynamics Trajectory Planning Scheme for Autonomous Driving in Extreme Conditions". (**Under Review**)
+2. Hu, XuePeng; Zhang, Yu; **Wang, Chengye**; Wang, Zhenfeng; Qin, Yechen"MCTP: A Multi-Coupled Dynamics Trajectory Planning Scheme for Autonomous Driving in Extreme Conditions", IEEE Transactions on Automation Science and Engineering. (**Under Review**, **IF=6.4, Q2**)
 
 **Conference Proceedings**
 
