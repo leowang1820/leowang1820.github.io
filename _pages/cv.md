@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-CV_PDF
+CV--PDF
 ======
 The CV can downloaded [here](https://leowang1820.github.io/files/CV_CWang.pdf).
