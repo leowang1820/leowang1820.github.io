@@ -13,7 +13,7 @@ I got my Bachelor's degree at the [College of Automotive Engneering](https://aut
 
 My research interests focus on path planning and stability control of CAVs especially under extreme scenarios. Based on traditional vehicle dynamic method, i am now thrilled to try to apply the advanced technology such as machine learning into improving the motion performance under complex envrionments. 
 
-I am very motivated and passionate about wheeled robot especially the use of learning-based methods. I am now open to PhD positions especially in decions-making and control of autonomous vehicle. Please feel free to reach out!
+I am very motivated and passionate about combing the vehicle dynamic with advanced technology. I am now open to PhD positions especially in decions-making and control of autonomous vehicle. Please feel free to reach out!
 
 :exclamation: News
 ======
