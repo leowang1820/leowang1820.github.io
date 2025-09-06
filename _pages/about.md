@@ -17,6 +17,8 @@ I am very motivated and passionate about combing the vehicle dynamic with advanc
 
 :exclamation: News
 ======
+- **[2025.8]** Our article "Real-time multidimensional vehicle dynamic stability domain calculation and its application in intelligent vehicles" has been accepted by Intelligent and Connected Vehicles Symposium(ICVS) 2025. The article presents a stable region estimation method based on neural network mapping, and applies it to the stability controller.
+
 - **[2025.8]** Our article [“基于动态稳定边界的智能车辆路径跟踪控制方法”](https://leowang1820.github.io/files/2025-0035-revised.pdf)（Dynamic Region of Stability Integrated Path-tracking Control for Intelligent Vehicles）has been accepted by **机械工程学报**（Chinese Journal of Mechanical Engineering, **IF=4.5, Q1**）！I provide a stable domain estimation method based on Lyapunov function(LF) for the path-tracking controller.
   
 - **[2025.7]** Our team designed a Four-wheel independent drive electric vehicle. I designed the architecture of steering, driving and braking modules which can be controlled either via a remote control or manually. Despite weighing only 300kg, we achieved a speed of over 50 km/h and the ability to climb a steep slope of 30°！[Here](https://youtu.be/5dhMFUSSkyM) is part vedio.
@@ -37,7 +39,7 @@ I am very motivated and passionate about combing the vehicle dynamic with advanc
 
 **Conference Proceedings**
 
-1. **Chengye Wang**, Yu Zhang, Xuepeng Hu, Haipeng Qin, Guoli Wang, Yechen Qin. "Real-time multidimensional vehicle dynamic stability domain calculation and its application in intelligent vehicles", ICVS 2025, Chongqing, China.SAE. (**Under Review**)
+1. **Chengye Wang**, Yu Zhang, Xuepeng Hu, Haipeng Qin, Guoli Wang, Yechen Qin. "Real-time multidimensional vehicle dynamic stability domain calculation and its application in intelligent vehicles", Intelligent and Connected Vehicles Symposium(ICVS) 2025, Chongqing, China.SAE International. (**Accepted**)
 
 :open_book: Educations
 ------
