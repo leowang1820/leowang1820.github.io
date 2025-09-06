@@ -17,7 +17,7 @@ I am very motivated and passionate about combing the vehicle dynamic with advanc
 
 :exclamation: News
 ======
-- **[2025.8]** Our article "Real-time multidimensional vehicle dynamic stability domain calculation and its application in intelligent vehicles" has been accepted by Intelligent and Connected Vehicles Symposium(ICVS) 2025. The article presents a stable region estimation method based on neural network mapping, and applies it to the stability controller.
+- **[2025.9]** Our article "Real-time multidimensional vehicle dynamic stability domain calculation and its application in intelligent vehicles" has been accepted by Intelligent and Connected Vehicles Symposium(ICVS) 2025. The article presents a stable region estimation method based on neural network mapping, and applies it to the stability controller.
 
 - **[2025.8]** Our article [“基于动态稳定边界的智能车辆路径跟踪控制方法”](https://leowang1820.github.io/files/2025-0035-revised.pdf)（Dynamic Region of Stability Integrated Path-tracking Control for Intelligent Vehicles）has been accepted by **机械工程学报**（Chinese Journal of Mechanical Engineering, **IF=4.5, Q1**）！I provide a stable domain estimation method based on Lyapunov function(LF) for the path-tracking controller.
   
