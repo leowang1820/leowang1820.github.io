@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 Hello! My name is Chengye Wang, and i am a graduate student at the [School of Mechanical Engneering](https://me.bit.edu.cn/) of 
-[Beijing Institute of Technology](https://www.bit.edu.cn/) under the supervision of Assoc.Prof.[Yechen Qin](https://me.bit.edu.cn/szdw/jsml/jlgcx/zdyzskzyjs/sssds3/5ba2e729d2ac4afb866e576ffdd0c7c0.htm).
+[Beijing Institute of Technology](https://www.bit.edu.cn/) under the supervision of Prof.[Yechen Qin](https://me.bit.edu.cn/szdw/jsml/jlgcx/zdyzskzyjs/bssds3/8f9963637d794ef2a3ad836efd464862.htm).
 
 I got my Bachelor's degree at the [College of Automotive Engneering](https://auto.jlu.edu.cn/) of [Jilin University](https://www.jlu.edu.cn/) under the supervison of Prof.[Nan Xu](https://auto.jlu.edu.cn/info/1306/5519.htm) in 2024.
 
@@ -50,4 +50,4 @@ I am very motivated and passionate about combing the vehicle dynamic with advanc
 
 :sun_with_face: Team
 ------
-Currently, our team is actively promoting the research of intelligent chassis under the leadership of Associate Professor Yechen Qin. If you want to be involved in this process or have any questions about my/the team’s research, please visit the [team homepage](https://me.bit.edu.cn/szdw/jsml/jlgcx/zdyzskzyjs/sssds3/5ba2e729d2ac4afb866e576ffdd0c7c0.htm) or contact us by email. All emails for academic discussions will be replied within 24 hours.
+Currently, our team is actively promoting the research of intelligent chassis under the leadership of Associate Professor Yechen Qin. If you want to be involved in this process or have any questions about my/the team’s research, please visit the [team homepage](https://me.bit.edu.cn/szdw/jsml/jlgcx/zdyzskzyjs/bssds3/8f9963637d794ef2a3ad836efd464862.htm) or contact us by email. All emails for academic discussions will be replied within 24 hours.
