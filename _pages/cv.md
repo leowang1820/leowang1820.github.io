@@ -11,4 +11,4 @@ redirect_from:
 
 CV--PDF
 ======
-The CV can downloaded [here](https://leowang1820.github.io/files/CV_CWangV4.pdf).
+The CV can downloaded [here](https://leowang1820.github.io/files/cv/CV_CWangV6.pdf).
