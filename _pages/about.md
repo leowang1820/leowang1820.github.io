@@ -27,7 +27,7 @@ I am very motivated and passionate about combing the vehicle dynamic with advanc
   
 - **[2025.5]** Our group won the 4th prize in **City and High-Speed Road**, [Onsite Autonomous Driving Algorithm Challenge 2025](https://www.onsite.com.cn/#/dist/home), the part vedio can be seen in [here](https://github.com/Daigo111111/2-Onsite-). 
 
-- **[2024.12]** I completed the dual-vehicle state communication based on Ubuntu/ROS, and this algorithm was used in path planning-related research and we provide a [interesting video](https://www.bilibili.com/video/BV1r8RqYJEyP/?vd_source=ae14150a937c3eb3565526f568721c64) based on [BYD,Shenzheng,China](https://www.byd.com/cn) test platfrom. 
+- **[2024.12]** I completed the dual-vehicle state communication based on Ubuntu/ROS, and this algorithm was used in path planning-related research and we provide a [interesting video](https://youtu.be/348yDlYR0g0) based on [BYD,Shenzheng,China](https://www.byd.com/cn) test platfrom. 
 
 - **[2024.9]** I was recommended for admission to Beijing Institute of Technology for graduate studies with the top 5% academic performance at Jilin University.
 
