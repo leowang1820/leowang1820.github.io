@@ -19,7 +19,7 @@ I am very motivated and passionate about combing the vehicle dynamic with advanc
 ======
 - **[2026.1]** Our article ["MCTP: A Multi-Coupled Dynamics Trajectory Planning Scheme for Autonomous Driving in Extreme Conditions"](https://leowang1820.github.io/files/artilce/Hu等MCTP.pdf) has been accepted by **IEEE Transactions on Automation Science and Engineering**（**IF=6.4, Q2, TOP**）！The article presents a method for trajectory planning which considered the multi-coupled vehicle dynamics including lateral-longitudinal motion coupling, tire force coupling, and lateral instability. I provided the path tracking method and assistance in real-vehicle test for the artcile. 
 
-- **[2025.9]** Our article "Real-time multidimensional vehicle dynamic stability domain calculation and its application in intelligent vehicles" has been accepted by Intelligent and Connected Vehicles Symposium(ICVS) 2025, **SAE International**. The article presents a stable region estimation method based on neural network mapping, and applies it to the stability controller.
+- **[2025.9]** Our article ["Real-time multidimensional vehicle dynamic stability domain calculation and its application in intelligent vehicles"](https://leowang1820.github.io/files/artilce/2025-01-7324.pdf) has been accepted by Intelligent and Connected Vehicles Symposium(ICVS) 2025, **SAE International**. The article presents a stable region estimation method based on neural network mapping, and applies it to the stability controller.
 
 - **[2025.8]** Our article [“基于动态稳定边界的智能车辆路径跟踪控制方法”](https://leowang1820.github.io/files/artilce/基于动态稳定边界的智能车辆路径跟踪控制方法_张钰.pdf)（Dynamic Region of Stability Integrated Path-tracking Control for Intelligent Vehicles）has been accepted by **机械工程学报**（Chinese Journal of Mechanical Engineering, **IF=4.5, Q1**）！I provide a stable domain estimation method based on Lyapunov function(LF) for the path-tracking controller.
   
@@ -41,7 +41,7 @@ I am very motivated and passionate about combing the vehicle dynamic with advanc
 
 **Conference Proceedings**
 
-1. **Chengye Wang**, Yu Zhang, Xuepeng Hu, Haipeng Qin, Guoli Wang, Yechen Qin. "Real-time multidimensional vehicle dynamic stability domain calculation and its application in intelligent vehicles", Intelligent and Connected Vehicles Symposium(ICVS) 2025, Chongqing, China.SAE International. (**Accepted**)
+1. **Chengye Wang**, Yu Zhang, Xuepeng Hu, Haipeng Qin, Guoli Wang, Yechen Qin.  ["Real-time multidimensional vehicle dynamic stability domain calculation and its application in intelligent vehicles"](https://leowang1820.github.io/files/artilce/2025-01-7324.pdf), Intelligent and Connected Vehicles Symposium(ICVS) 2025, Chongqing, China.SAE International. (**Accepted**)
 
 :open_book: Educations
 ------
