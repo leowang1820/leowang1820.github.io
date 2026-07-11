@@ -6,6 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<a id="about-me"></a>
+
 Hello! My name is Chengye Wang, and i am a graduate student at the [School of Mechanical Engneering](https://me.bit.edu.cn/) of 
 [Beijing Institute of Technology](https://www.bit.edu.cn/) under the supervision of Prof.[Yechen Qin](https://me.bit.edu.cn/szdw/jsml/jlgcx/zdyzskzyjs/bssds3/8f9963637d794ef2a3ad836efd464862.htm).
 
@@ -17,6 +19,7 @@ I am very motivated and passionate about combing the vehicle dynamic with advanc
 
 :exclamation: News
 ======
+{: #news}
 - **[2026.1]** Our article ["MCTP: A Multi-Coupled Dynamics Trajectory Planning Scheme for Autonomous Driving in Extreme Conditions"](https://leowang1820.github.io/files/artilce/Hu等MCTP.pdf) has been accepted by **IEEE Transactions on Automation Science and Engineering**（**IF=6.4, Q2, TOP**）！The article presents a method for trajectory planning which considered the multi-coupled vehicle dynamics including lateral-longitudinal motion coupling, tire force coupling, and lateral instability. I provided the path tracking method and assistance in real-vehicle test for the artcile. 
 
 - **[2025.9]** Our article ["Real-time multidimensional vehicle dynamic stability domain calculation and its application in intelligent vehicles"](https://leowang1820.github.io/files/artilce/2025-01-7324.pdf) has been accepted by Intelligent and Connected Vehicles Symposium(ICVS) 2025, **SAE International**. The article presents a stable region estimation method based on neural network mapping, and applies it to the stability controller.
@@ -33,6 +36,7 @@ I am very motivated and passionate about combing the vehicle dynamic with advanc
 
 :rocket: Publications
 ======
+{: #publications}
 **Journal Papers**(Provide orginal text whenever possible)
 
 1. 张钰, **王成烨**, 杜甫, 董明明, 秦也辰 and 毛明. ["Dynamic Region of Stability Integrated Path-tracking Control for Intelligent Vehicles"](https://leowang1820.github.io/files/artilce/基于动态稳定边界的智能车辆路径跟踪控制方法_张钰.pdf), Chinese Journal of Mechanical Engineering. (**Accepted**, **IF=4.5, Q1**)
@@ -45,6 +49,7 @@ I am very motivated and passionate about combing the vehicle dynamic with advanc
 
 :open_book: Educations
 ------
+{: #education}
 - **[2024.09-2027.06]**, Graduate, School of Mechanical Engneering, Beijing Institute of Technology, Beijing, China. 
   
 - **[2020.09-2024.06]**, Undergraduate, College of Automotive Engneering, Jilin University, Changchun, China. GPA:3.75/4.0
@@ -52,4 +57,5 @@ I am very motivated and passionate about combing the vehicle dynamic with advanc
 
 :sun_with_face: Team
 ------
+{: #team}
 Currently, our team is actively promoting the research of intelligent chassis under the leadership of Associate Professor Yechen Qin. If you want to be involved in this process or have any questions about my/the team’s research, please visit the [team homepage](https://me.bit.edu.cn/szdw/jsml/jlgcx/zdyzskzyjs/bssds3/8f9963637d794ef2a3ad836efd464862.htm) or contact us by email. All emails for academic discussions will be replied within 24 hours.
