@@ -62,6 +62,17 @@ I am very motivated and passionate about combing the vehicle dynamic with advanc
   
 - **[2020.09-2024.06]**, Undergraduate, College of Automotive Engneering, Jilin University, Changchun, China. GPA:3.75/4.0
 
+:microphone: Talks
+------
+{: #talks}
+{% for post in site.talks reversed %}
+- **[{{ post.date | date: "%Y.%m" }}]** [{{ post.title }}]({{ post.url }}) — {{ post.type }}, {{ post.venue }}, {{ post.location }}
+{% endfor %}
+
+:page_facing_up: CV
+------
+{: #cv}
+The CV can be downloaded [here](https://leowang1820.github.io/files/cv/CV_CWangV6.pdf).
 
 :sun_with_face: Team
 ------
