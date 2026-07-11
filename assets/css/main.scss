@@ -41,3 +41,9 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* --- Custom overrides: keep below the @import list --- */
+/* Offset anchor-jump targets so the fixed masthead nav doesn't cover the heading */
+h1, h2, h3, h4, a[id] {
+  scroll-margin-top: 80px;
+}
