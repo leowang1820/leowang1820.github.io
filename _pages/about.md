@@ -8,7 +8,7 @@ redirect_from:
 ---
 <a id="about-me"></a>
 
-Hello! My name is Chengye Wang, and i am a graduate student at the [School of Mechanical Engneering](https://me.bit.edu.cn/) of 
+Hello! My name is Chengye Wang, and i am a master student at the [School of Mechanical Engneering](https://me.bit.edu.cn/) of 
 [Beijing Institute of Technology](https://www.bit.edu.cn/) under the supervision of Prof.[Yechen Qin](https://me.bit.edu.cn/szdw/jsml/jlgcx/zdyzskzyjs/bssds3/8f9963637d794ef2a3ad836efd464862.htm).
 
 I got my Bachelor's degree at the [College of Automotive Engneering](https://auto.jlu.edu.cn/) of [Jilin University](https://www.jlu.edu.cn/) under the supervison of Prof.[Nan Xu](https://auto.jlu.edu.cn/info/1306/5519.htm) in 2024.
