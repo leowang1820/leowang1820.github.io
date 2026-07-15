@@ -47,7 +47,7 @@ I am very motivated and passionate about combing the vehicle dynamic with advanc
 
 2. Hu, XuePeng; Zhang, Yu; **Wang, Chengye**; Wang, Zhenfeng; Qin, Yechen["MCTP: A Multi-Coupled Dynamics Trajectory Planning Scheme for Autonomous Driving in Extreme Conditions"](https://leowang1820.github.io/files/artilce/Hu等MCTP.pdf), IEEE Transactions on Automation Science and Engineering. (**Accepted**, **IF=6.4, Q2, TOP**)
 
-2. Hu, XuePeng; Zhang, Yu; **Wang, Chengye**; Wang, Zhenfeng; Qin, Yechen "Tire Model-Free Tire-Road Friction Coefficient Estimation for Unmanned Platforms via Vision-Dynamics Dual-Confidence Fusion"], Mechanical Systems and Signal Processing. (**Under review**, **IF=10.2, Q1, TOP**)
+2. He, Jingqi; Yang, Ziyi; Shi, Shaoyang; **Wang, Chengye**; Zhang Yu; Qin, Yechen "Tire Model-Free Tire-Road Friction Coefficient Estimation for Unmanned Platforms via Vision-Dynamics Dual-Confidence Fusion"], Mechanical Systems and Signal Processing. (**Under review**, **IF=10.2, Q1, TOP**)
 
 
 **Conference Proceedings**
