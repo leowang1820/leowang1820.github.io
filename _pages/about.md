@@ -72,10 +72,7 @@ I am very motivated and passionate about combing the vehicle dynamic with advanc
 - **[{{ post.date | date: "%Y.%m" }}]** [{{ post.title }}]({{ post.url }}) — {{ post.type }}, {{ post.venue }}, {{ post.location }}
 {% endfor %}
 
-{: #talks}
-{% for post in site.talks reversed %}
-- **[{{ pos****`t.date | date: "%Y.%m" }}]** [{{ post.title }}]({{ post.url }}) — {{ post.type }}, {{ post.venue }}, {{ post.location }}
-{% endfor %}
+
 
 :page_facing_up: CV
 ------
