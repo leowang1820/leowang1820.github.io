@@ -58,3 +58,15 @@ h1, h2, h3, h4, a[id] {
     word-break: normal;
   }
 }
+
+/* Shrink the profile photo without cropping */
+@media screen and (min-width: 1024px) {
+  .sidebar .author__avatar img {
+    width: 140px;
+    max-width: 140px;
+    height: auto;
+    object-fit: contain;
+    border-radius: 8px;
+    display: block;
+  }
+}
