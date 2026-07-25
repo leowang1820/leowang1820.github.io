@@ -23,14 +23,15 @@ For distributed-drive electric vehicles, independent four-wheel torque control a
 
 ## Approach
 
-- Analyze nonlinear lateral dynamics in phase-plane and multidimensional state spaces.
-- Construct stability boundaries using physics-based indicators and data-driven mapping.
-- Estimate the stability domain online as vehicle states and operating conditions change.
-- Integrate the resulting boundary into path-tracking and stability-control frameworks.
+- Analyze nonlinear lateral stability in phase-plane by Lyapunov Function Method and Phase Portrait Method.
+- Quantify stability boundaries using data-driven mapping and radial-
+search method.
+-  Analyze the variation of stability boundary as vehicle states and operating conditions change.
 
 ## Related publications
 
 1. **Chengye Wang**, Yu Zhang, Xuepeng Hu, Haipeng Qin, Guoli Wang, and Yechen Qin, "[Real-time multidimensional vehicle dynamic stability domain calculation and its application in intelligent vehicles](https://leowang1820.github.io/files/artilce/2025-01-7324.pdf)," SAE International, ICVS 2025.
-2. Yu Zhang, **Chengye Wang**, Fu Du, Mingming Dong, Yechen Qin, and Ming Mao, "[Dynamic Region of Stability Integrated Path-tracking Control for Intelligent Vehicles](https://leowang1820.github.io/files/artilce/基于动态稳定边界的智能车辆路径跟踪控制方法_张钰.pdf)," Chinese Journal of Mechanical Engineering, accepted.
+2. Yu Zhang, **Chengye Wang**, Fu Du, Mingming Dong, Yechen Qin, and Ming Mao, "[Dynamic Region of Stability Integrated Path-tracking Control for Intelligent Vehicles](https://leowang1820.github.io/files/artilce/基于动态稳定边界的智能车辆路径跟踪控制方法_张钰.pdf)," Chinese Journal of Mechanical Engineering.
+3. **Chengye Wang**, Yu Zhang, Xuepeng Hu, Shaoyang Shi, Jingqi He, Yechen Qin.  "Coordinated Tracking and Stability Control of Automated Vehicles at the Limits: A Controlled Stability Region Approach", 2026 IEEE 29th International Conference on Intelligent Transportation Systems (ITSC), Naples, Italy.IEEE.
 
 <a class="research-back" href="/research/">← Back to all research</a>
