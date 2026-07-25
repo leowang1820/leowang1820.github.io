@@ -74,7 +74,7 @@ author_profile: true
     >
     <div class="research-card__body">
       <span class="research-card__number">04</span>
-      <h2>Real-Vehicle Platform Development</h2>
+      <h2>Real-Vehicle Platform</h2>
       <p>
         Development of a distributed-drive electric vehicle platform featuring
         <strong>four-wheel-independent drive</strong>,
