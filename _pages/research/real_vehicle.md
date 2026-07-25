@@ -60,10 +60,11 @@ and its experimental capabilities.
 .youtube-video {
   position: relative;
   width: 100%;
-  margin: 1.5rem 0;
+  max-width: 600px;
+  margin: 1.5rem auto;
   aspect-ratio: 16 / 9;
   overflow: hidden;
-  background: #000;
+  background-color: #000;
   border-radius: 8px;
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.18);
 }
