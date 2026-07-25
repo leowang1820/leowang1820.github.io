@@ -7,11 +7,7 @@ author_profile: true
 
 <p class="research-kicker">Research Area 04</p>
 
-<img
-  class="research-hero"
-  src="{{ '/images/real-vehicle/DDEV_real.jpg' | relative_url }}"
-  alt="Distributed-drive electric vehicle experimental platform"
->
+
 
 ## Brief
 
@@ -27,6 +23,16 @@ the investigation of vehicle stability, trajectory tracking, and coordinated
 chassis control under complex and extreme driving conditions.
 
 ## Platform Capabilities
+
+<img
+  class="research-hero"
+  src="{{ '/images/real-vehicle/DDEV_real.png' | relative_url }}"
+  alt="Distributed-drive electric vehicle experimental platform"
+>
+<img
+  class="research-hero"
+  src="{{ '/images/real-vehicle/DDEV_catia.png' | relative_url }}"
+  alt="Distributed-drive electric vehicle experimental platform"
 
 - **Four-wheel-independent drive** for flexible wheel-torque allocation.
 - **Steer-by-wire** for accurate and programmable steering control.
