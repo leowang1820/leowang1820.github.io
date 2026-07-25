@@ -1,40 +1,43 @@
 ---
 layout: single
-permalink: /research/vehicle-stability-domain/
-title: "Vehicle Stability Domain"
+permalink: /research/real_vehicle/
+title: "Real-Vehicle Platform Development"
 author_profile: true
 ---
 
-<p class="research-kicker">Research Area 01</p>
+<p class="research-kicker">Research Area 04</p>
 
-<img class="research-hero" src="/images/research/stability-domain.jpg" alt="Presentation on multidimensional vehicle stability domains">
+<img
+  class="research-hero"
+  src="{{ '/images/real-vehicle/DDEV_real.jpg' | relative_url }}"
+  alt="Distributed-drive electric vehicle experimental platform"
+>
 
 ## Brief
 
-This research investigates how to characterize the nonlinear stability limits
-of vehicles in real time. The objective is to provide an interpretable and
-computationally efficient stability boundary that can be used by planning and
-control algorithms under changing speed, steering, road-friction, and other
-operating conditions.
+This research focuses on the development of a distributed-drive electric
+vehicle experimental platform for validating advanced vehicle-dynamics,
+motion-control, and stability-control algorithms under real-world conditions.
 
 ## Motivation
 
-Conventional fixed thresholds cannot fully describe vehicle behavior near the
-handling limits. Tire saturation, longitudinal–lateral coupling, and changing
-road conditions make the stable operating region strongly state- and
-condition-dependent. A real-time stability domain can therefore provide more
-useful safety constraints for automated vehicles.
+Experimental validation is essential for evaluating the practical performance
+of vehicle-control algorithms. A reconfigurable real-vehicle platform enables
+the investigation of vehicle stability, trajectory tracking, and coordinated
+chassis control under complex and extreme driving conditions.
 
-## Approach
+## Platform Capabilities
 
-- Analyze nonlinear lateral dynamics in phase-plane and multidimensional state spaces.
-- Construct stability boundaries using physics-based indicators and data-driven mapping.
-- Estimate the stability domain online as vehicle states and operating conditions change.
-- Integrate the resulting boundary into path-tracking and stability-control frameworks.
+- **Four-wheel-independent drive** for flexible wheel-torque allocation.
+- **Steer-by-wire** for accurate and programmable steering control.
+- **Active suspension** for coordinated vertical and lateral dynamics control.
+- Onboard sensing and real-time computation for experimental validation.
+- Support for trajectory-tracking and vehicle-stability-control experiments.
 
-## Related publications
+## Research Applications
 
-1. **Chengye Wang**, Yu Zhang, Xuepeng Hu, Haipeng Qin, Guoli Wang, and Yechen Qin, "[Real-time multidimensional vehicle dynamic stability domain calculation and its application in intelligent vehicles](https://leowang1820.github.io/files/artilce/2025-01-7324.pdf)," SAE International, ICVS 2025.
-2. Yu Zhang, **Chengye Wang**, Fu Du, Mingming Dong, Yechen Qin, and Ming Mao, "[Dynamic Region of Stability Integrated Path-tracking Control for Intelligent Vehicles](https://leowang1820.github.io/files/artilce/基于动态稳定边界的智能车辆路径跟踪控制方法_张钰.pdf)," Chinese Journal of Mechanical Engineering, accepted.
+The platform supports the experimental validation of distributed-drive control,
+vehicle stability analysis, coordinated trajectory tracking, chassis control,
+and autonomous-driving algorithms.
 
-<a class="research-back" href="/research/">← Back to all research</a>
+<a class="research-back" href="{{ '/research/' | relative_url }}">← Back to all research</a>
