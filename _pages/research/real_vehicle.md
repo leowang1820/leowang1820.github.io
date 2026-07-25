@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /research/real_vehicle/
-title: "Real-Vehicle Platform Development"
+title: "Real-Vehicle Platform"
 author_profile: true
 ---
 
