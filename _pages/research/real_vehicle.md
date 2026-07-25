@@ -12,15 +12,13 @@ author_profile: true
 ## Brief
 
 This research focuses on the development of a distributed-drive electric
-vehicle experimental platform for validating advanced vehicle-dynamics,
-motion-control, and stability-control algorithms under real-world conditions.
+vehicle experimental platform for validating trajectory-tracking, and stability-control algorithms under real-world conditions.
 
 ## Motivation
 
+Distributed-drive electric vehicle (DDEV) is thought to be the ideal platform for the future autonomous vehicles. 
 Experimental validation is essential for evaluating the practical performance
-of vehicle-control algorithms. A reconfigurable real-vehicle platform enables
-the investigation of vehicle stability, trajectory tracking, and coordinated
-chassis control under complex and extreme driving conditions.
+of vehicle-control algorithms. 
 
 ## Platform Capabilities
 
