@@ -67,7 +67,7 @@ author_profile: true
     </div>
   </a>
 
-  <a class="research-card" href="/research/real-vehicle-platform/">
+  <a class="research-card" href="/research/real_vehicle/">
     <img
       src="/images/research/real-vehicle-platform.jpg"
       alt="Distributed-drive electric vehicle experimental platform"
