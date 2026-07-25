@@ -7,7 +7,7 @@ author_profile: true
 
 <p class="research-intro">
   My research focuses on <strong>Vehicle Stability Analysis</strong>,
-  <strong>Motion Control</strong>(particularly the coordination between
+  <strong>Motion Control</strong> (particularly the coordination between
   stability control and trajectory tracking), <strong>Trajectory Planning</strong>,
   and <strong>Real-Vehicle Platform Development</strong>, especially under
   <strong>extreme driving conditions</strong>, including high speeds,
