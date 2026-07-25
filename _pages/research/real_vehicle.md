@@ -22,17 +22,13 @@ vehicle-control algorithms.
 
 ## Platform Capabilities
 
-<img
-  class="research-hero"
-  src="{{ '/images/real-vehicle/DDEV_real.png' | relative_url }}"
-  alt="Distributed-drive electric vehicle experimental platform"
->
+<img class="research-hero"
+     src="/images/real-vehicle/DDEV_real.png"
+     alt="Multidimensional vehicle stability-domain analysis">
 
-<img
-  class="research-hero"
-  src="{{ '/images/real-vehicle/DDEV_catia.png' | relative_url }}"
-  alt="CATIA model of the distributed-drive electric vehicle"
->
+<img class="research-hero"
+     src="/images/real-vehicle/DDEV_catia.png"
+     alt="Closed-loop vehicle stability analysis">
 
 - **Four-wheel-independent drive** for flexible wheel-torque allocation.
 - **Steer-by-wire** for accurate and programmable steering control.
