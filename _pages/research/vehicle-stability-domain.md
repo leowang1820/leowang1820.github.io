@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /research/vehicle-stability-domain/
-title: "Vehicle Stability Domain"
+title: "Vehicle Lateral Stability Analysis"
 author_profile: true
 ---
 
@@ -11,19 +11,15 @@ author_profile: true
 
 ## Brief
 
-This research investigates how to characterize the nonlinear stability limits
-of vehicles in real time. The objective is to provide an interpretable and
+This research investigates how to characterize the nonlinear stability
+of vehicles in multi-factors. The objective is to provide an interpretable and
 computationally efficient stability boundary that can be used by planning and
-control algorithms under changing speed, steering, road-friction, and other
-operating conditions.
+control algorithms under changing driving conditions.
 
 ## Motivation
 
-Conventional fixed thresholds cannot fully describe vehicle behavior near the
-handling limits. Tire saturation, longitudinal–lateral coupling, and changing
-road conditions make the stable operating region strongly state- and
-condition-dependent. A real-time stability domain can therefore provide more
-useful safety constraints for automated vehicles.
+Vehicle stability is fundamental to the safe operation of intelligent vehicles, and the real-time, accurate characterization of the stability domain is crucial for maintaining control across diverse driving conditions. However, the actual stability domain is difficult to parameterize because it is jointly shaped by vehicle dynamics, environmental conditions, time-varying driving inputs, and active control capabilities. Existing methods struggle to capture these multidimensional couplings and often adopt conservative assumptions, thereby underestimating the available stability margin and restricting vehicle performance.
+For distributed-drive electric vehicles, independent four-wheel torque control and steering coordination can actively extend the controllable stability region. Nevertheless, existing studies rarely investigate closed-loop stability under such multi-actuator control or systematically exploit the resulting controlled stability characteristics. Consequently, trajectory-tracking controllers generally rely on simplified stability constraints, which may cause unnecessary interventions and degrade tracking performance in extreme scenarios such as high-speed cornering and low-adhesion driving.
 
 ## Approach
 
