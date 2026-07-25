@@ -26,9 +26,13 @@ For distributed-drive electric vehicles, independent four-wheel torque control a
 - Quantify stability boundaries using data-driven mapping and radial-
 search method.
 -  Analyze the variation of stability boundary as vehicle states and operating conditions change.
-<img class="research-hero" src="D:\website\images\research\stability_analysis\multidimentional_analysis.png" alt="Presentation on multidimensional vehicle stability domains">
-<img class="research-hero" src="D:\website\images\research\stability_analysis\close-loop_analysis.png" alt="Presentation on multidimensional vehicle stability domains">
+<img class="research-hero"
+     src="/images/research/stability_analysis/multidimentional_analysis.png"
+     alt="Multidimensional vehicle stability-domain analysis">
 
+<img class="research-hero"
+     src="/images/research/stability_analysis/close-loop_analysis.png"
+     alt="Closed-loop vehicle stability analysis">
 
 ## Related publications
 
