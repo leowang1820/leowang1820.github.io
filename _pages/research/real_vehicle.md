@@ -47,9 +47,10 @@ and its experimental capabilities.
 
 <div class="youtube-video">
   <iframe
-    src="https://www.youtube-nocookie.com/embed/7PLLaiRjjvM"
+    src="https://www.youtube.com/embed/7PLLaiRjjvM"
     title="Distributed-Drive Electric Vehicle Experimental Platform"
     loading="lazy"
+    referrerpolicy="strict-origin-when-cross-origin"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen>
   </iframe>
@@ -60,9 +61,9 @@ and its experimental capabilities.
   position: relative;
   width: 100%;
   margin: 1.5rem 0;
-  overflow: hidden;
   aspect-ratio: 16 / 9;
-  background-color: #000;
+  overflow: hidden;
+  background: #000;
   border-radius: 8px;
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.18);
 }
@@ -75,7 +76,7 @@ and its experimental capabilities.
 }
 </style>
 
-<p class="youtube-external-link">
+<p>
   If the embedded video cannot be played,
   <a
     href="https://www.youtube.com/watch?v=7PLLaiRjjvM"
