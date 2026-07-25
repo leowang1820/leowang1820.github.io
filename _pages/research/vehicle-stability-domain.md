@@ -7,8 +7,7 @@ author_profile: true
 
 <p class="research-kicker">Research Area 01</p>
 
-<img class="research-hero" src="/images/research/stability-domain.jpg" alt="Presentation on multidimensional vehicle stability domains">
-
+[//]: # (<img class="research-hero" src="/images/research/stability-domain.jpg" alt="Presentation on multidimensional vehicle stability domains">)
 ## Brief
 
 This research investigates how to characterize the nonlinear stability
@@ -27,6 +26,9 @@ For distributed-drive electric vehicles, independent four-wheel torque control a
 - Quantify stability boundaries using data-driven mapping and radial-
 search method.
 -  Analyze the variation of stability boundary as vehicle states and operating conditions change.
+<img class="research-hero" src="D:\website\images\research\stability_analysis\multidimentional_analysis.png" alt="Presentation on multidimensional vehicle stability domains">
+<img class="research-hero" src="D:\website\images\research\stability_analysis\close-loop_analysis.png" alt="Presentation on multidimensional vehicle stability domains">
+
 
 ## Related publications
 
