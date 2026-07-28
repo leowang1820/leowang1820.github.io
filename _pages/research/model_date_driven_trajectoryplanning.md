@@ -1,7 +1,7 @@
 ---
 layout: single
-permalink: /research/risk-aware-motion-planning/
-title: "Risk-Aware Decision Making and Motion Planning"
+permalink: /research/model_date_driven_trajectoryplanning.md/
+title: "Model-Data driven Trajectory Planning"
 author_profile: true
 ---
 
@@ -11,21 +11,23 @@ author_profile: true
 
 ## Brief
 
-This research explores decision-making and motion-planning methods for
+This research explores trajectory planning method for
 autonomous vehicles operating in interactive, uncertain, and dynamically
-demanding scenarios. The goal is to generate motion that is not only
-collision-free, but also feasible for the vehicle to execute safely.
+demanding scenarios. The goal is to generate trajectory that is not only
+collision-free, but also dynamically feasible for the vehicle to execute safely.
 
 ## Motivation
 
-Planning and vehicle control are often designed separately. Under extreme
-conditions, however, a geometrically valid path may demand more tire force or
-stability margin than the vehicle can provide. Interactive traffic also
-requires the planner to account for uncertainty and the possible responses of
-surrounding road users.
+Under extreme conditions, a dynamically infeasible trajectories may result in vehicle instability, or even accidents under extreme conditions, 
+making model-based prediction and constraint enforcement essential 
+for ensuring dynamic feasibility and safety. Meanwhile, interactive traffic involves uncertain and context-dependent 
+responses that are difficult to represent using handcrafted models alone, motivating data-driven learning to acquire 
+adaptive interaction strategies from experience. Therefore, an effective planner should integrate model-based optimization 
+for physics-consistent motion generation with data-driven decision-making for complex and uncertain interactions.
 
 ## Approach
 
+- A multi-coupled dynamics trajectory planning scheme for autonomous driving in extreme conditions
 - Represent interaction risk explicitly during decision making.
 - Couple trajectory generation with vehicle-dynamics constraints.
 - Consider longitudinal–lateral motion coupling and tire-force limitations.
