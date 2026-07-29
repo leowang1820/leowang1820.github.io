@@ -9,8 +9,6 @@ author_profile: true
 
 <p class="research-kicker">Research Area 03</p>
 
-<img class="research-hero" src="/images/research/motion-planning.jpg" alt="Vehicle testing on a closed track">
-
 ## Brief
 
 This research explores trajectory planning method for
@@ -29,9 +27,19 @@ for physics-consistent motion generation with data-driven decision-making for co
 
 ## Approach
 
-- Multi-coupled dynamics trajectory planning scheme for autonomous driving in extreme conditions
+- Multi-coupled dynamics trajectory planning scheme for autonomous driving in extreme conditions and Real-vehicle test cooperated with BYD.
+<div class="youtube-video">
+  <iframe
+    src="https://www.youtube.com/watch?v=348yDlYR0g0"
+    title="MCTP: A Multi-Coupled Dynamics Trajectory  Planning Scheme for Autonomous Driving  in Extreme Conditions"
+    loading="lazy"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
 - Risk-Aware Decision Making and Motion Planning Framework for Interactive Autonomous  Driving.
-- Real-vehicle test cooperated with BYD.
+
 
 ## Related publications
 
