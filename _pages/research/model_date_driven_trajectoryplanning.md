@@ -27,12 +27,9 @@ for physics-consistent motion generation with data-driven decision-making for co
 
 ## Approach
 
-- A multi-coupled dynamics trajectory planning scheme for autonomous driving in extreme conditions
-- Represent interaction risk explicitly during decision making.
-- Couple trajectory generation with vehicle-dynamics constraints.
-- Consider longitudinal–lateral motion coupling and tire-force limitations.
-- Use stability information to reject or reshape dynamically unsafe motion.
-- Evaluate the resulting trajectories through simulation and vehicle experiments.
+- Multi-coupled dynamics trajectory planning scheme for autonomous driving in extreme conditions
+- Risk-Aware Decision Making and Motion Planning Framework for Interactive Autonomous  Driving.
+- Real-vehicle test cooperated with BYD.
 
 ## Related publications
 
