@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /research/model_date_driven_trajectoryplanning.md/
+permalink: /research/model_date_driven_trajectoryplanning/
 title: "Model-Data driven Trajectory Planning"
 author_profile: true
 ---
