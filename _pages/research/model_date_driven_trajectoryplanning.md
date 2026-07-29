@@ -1,7 +1,9 @@
 ---
 layout: single
 permalink: /research/model_date_driven_trajectoryplanning/
-title: "Model-Data driven Trajectory Planning"
+redirect_from:
+  - /research/risk-aware-motion-planning/
+title: "Model–Data-Driven Trajectory Planning"
 author_profile: true
 ---
 
