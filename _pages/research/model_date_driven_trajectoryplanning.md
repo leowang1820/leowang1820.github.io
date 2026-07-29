@@ -30,14 +30,46 @@ for physics-consistent motion generation with data-driven decision-making for co
 - Multi-coupled dynamics trajectory planning scheme for autonomous driving in extreme conditions and Real-vehicle test cooperated with BYD.
 <div class="youtube-video">
   <iframe
-    src="https://www.youtube.com/watch?v=348yDlYR0g0"
-    title="MCTP: A Multi-Coupled Dynamics Trajectory  Planning Scheme for Autonomous Driving  in Extreme Conditions"
+    src="https://www.youtube.com/embed/348yDlYR0g0"
+    title="MCTP: A Multi-Coupled Dynamics Trajectory Planning Scheme for Autonomous Driving in Extreme Conditions"
     loading="lazy"
     referrerpolicy="strict-origin-when-cross-origin"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen>
   </iframe>
 </div>
+
+<style>
+.youtube-video {
+  position: relative;
+  width: 100%;
+  max-width: 700px;
+  margin: 1.5rem auto;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  background-color: #000;
+  border-radius: 8px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.18);
+}
+
+.youtube-video iframe {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+</style>
+
+<p>
+  If the embedded video cannot be played,
+  <a
+    href="https://www.youtube.com/watch?v=348yDlYR0g0"
+    target="_blank"
+    rel="noopener noreferrer">
+    watch it directly on YouTube →
+  </a>
+</p>
+
 - Risk-Aware Decision Making and Motion Planning Framework for Interactive Autonomous  Driving.
 
 
