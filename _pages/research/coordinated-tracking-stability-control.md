@@ -82,4 +82,8 @@ controller intervention can significantly degrade path-tracking performance unde
 Limits: A Controlled Stability Region Approach" 2026 IEEE 29th International
 Conference on Intelligent Transportation Systems (ITSC), accepted.
 
+**Chengye Wang**, Yu Zhang, Xuepeng Hu, Haipeng Qin, Guoli Wang, and Yechen Qin, "[Real-time multidimensional vehicle dynamic stability domain calculation and its application in intelligent vehicles](https://leowang1820.github.io/files/artilce/2025-01-7324.pdf)," SAE International, ICVS 2025.
+
+Yu Zhang, **Chengye Wang**, Fu Du, Mingming Dong, Yechen Qin, and Ming Mao, "[Dynamic Region of Stability Integrated Path-tracking Control for Intelligent Vehicles](https://leowang1820.github.io/files/artilce/基于动态稳定边界的智能车辆路径跟踪控制方法_张钰.pdf)," Chinese Journal of Mechanical Engineering.
+
 <a class="research-back" href="/research/">← Back to all research</a>
