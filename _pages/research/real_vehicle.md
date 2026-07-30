@@ -35,6 +35,7 @@ vehicle-control algorithms.
 - **Active suspension** for coordinated vertical and lateral dynamics control.
 - Onboard sensing and real-time computation for experimental validation.
 - Support for trajectory-tracking and vehicle-stability-control experiments.
+- Electro-Hydraulic Brake (EHB) test for real vehicle platform (in progress...).
 
 ## Experimental Demonstration
 
