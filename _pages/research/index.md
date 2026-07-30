@@ -35,7 +35,7 @@ author_profile: true
 
   <a class="research-card" href="/research/coordinated-tracking-stability-control/">
     <img
-      src="/images/research/coordinated-control.jpg"
+      src="/images/research/coordinated-control.png"
       alt="Presentation on coordinated trajectory tracking and vehicle stability control"
     >
     <div class="research-card__body">
