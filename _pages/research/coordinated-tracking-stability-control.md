@@ -44,7 +44,7 @@ controller can significantly degrade path-tracking performance.
   width: 100%;
   max-width: 380px;
   margin: 1.5rem auto;
-  aspect-ratio: 9 / 16;
+  aspect-ratio: 16 / 9;
   overflow: hidden;
   background-color: #000;
   border-radius: 8px;
