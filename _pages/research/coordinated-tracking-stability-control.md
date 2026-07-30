@@ -42,7 +42,7 @@ controller can significantly degrade path-tracking performance.
 .youtube-video--short {
   position: relative;
   width: 100%;
-  max-width: 380px;
+  max-width: 700px;
   margin: 1.5rem auto;
   aspect-ratio: 16 / 9;
   overflow: hidden;
