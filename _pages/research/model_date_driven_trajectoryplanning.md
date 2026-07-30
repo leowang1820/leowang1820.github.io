@@ -70,6 +70,8 @@ for physics-consistent motion generation with data-driven decision-making for co
   </a>
 </p>
 
+- Onsite Autonomous Driving Algorithm Challenge 2025, **4th prize** in City and High-Speed Road, [vedio here](https://github.com/leowang1820/2-Onsite-/blob/main/README.md).
+
 - Risk-Aware Decision Making and Motion Planning Framework for Interactive Autonomous  Driving.
 
 
