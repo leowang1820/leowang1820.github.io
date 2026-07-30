@@ -27,9 +27,9 @@ controller can significantly degrade path-tracking performance.
 
 - Controlled Stability Region-Guided Lateral-Longitudinal Trajectory Tracking for Autonomous Vehicles.
 
-<div class="youtube-video">
+<div class="youtube-video youtube-video--short">
   <iframe
-    src="https://youtube.com/shorts/VU_aiadBjVI?feature=share"
+    src="https://www.youtube.com/embed/VU_aiadBjVI"
     title="Controlled Stability Region-Guided Lateral-Longitudinal Trajectory Tracking for Autonomous Vehicles"
     loading="lazy"
     referrerpolicy="strict-origin-when-cross-origin"
@@ -39,19 +39,19 @@ controller can significantly degrade path-tracking performance.
 </div>
 
 <style>
-.youtube-video {
+.youtube-video--short {
   position: relative;
   width: 100%;
-  max-width: 700px;
+  max-width: 380px;
   margin: 1.5rem auto;
-  aspect-ratio: 16 / 9;
+  aspect-ratio: 9 / 16;
   overflow: hidden;
   background-color: #000;
   border-radius: 8px;
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.18);
 }
 
-.youtube-video iframe {
+.youtube-video--short iframe {
   display: block;
   width: 100%;
   height: 100%;
@@ -59,10 +59,10 @@ controller can significantly degrade path-tracking performance.
 }
 </style>
 
-<p>
+<p style="text-align: center;">
   If the embedded video cannot be played,
   <a
-    href="https://www.youtube.com/watch?v=348yDlYR0g0"
+    href="https://www.youtube.com/shorts/VU_aiadBjVI"
     target="_blank"
     rel="noopener noreferrer">
     watch it directly on YouTube →
