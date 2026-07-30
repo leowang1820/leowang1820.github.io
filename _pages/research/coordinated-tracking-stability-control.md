@@ -69,7 +69,7 @@ controller can significantly degrade path-tracking performance.
   </a>
 </p>
 
-- Retain the path-tracking steering demand as the nominal motion command.
+- learning-model enhanced motion control (in progress...)
 - Introduce corrective yaw-moment control when the vehicle approaches its stability boundary.
 - Coordinate the two objectives according to the current vehicle state and stability margin.
 - Validate the framework in representative limit-handling scenarios.
