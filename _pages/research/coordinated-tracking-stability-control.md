@@ -72,8 +72,8 @@ controller intervention can significantly degrade path-tracking performance unde
 - Hardware-in-the-Loop (HiL) platform design.
 
 <img class="research-hero"
-     src="/images/real-vehicle/coordinated-control.png"
-     alt="Multidimensional vehicle stability-domain analysis">
+     src="/images/research/coordinated-control.png"
+     alt="HiL platform">
 
 - learning-model enhanced motion control (in progress...)
 
