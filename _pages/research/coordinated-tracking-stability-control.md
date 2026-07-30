@@ -7,7 +7,7 @@ author_profile: true
 
 <p class="research-kicker">Research Area 02</p>
 
-<img class="research-hero" src="/images/research/coordinated-control.jpg" alt="Presentation on coordinated tracking and vehicle stability control">
+
 
 ## Brief
 
@@ -25,7 +25,50 @@ controller can significantly degrade path-tracking performance.
 
 ## Approach
 
-- Use a controlled stability region to quantify the available dynamic margin.
+- Controlled Stability Region-Guided Lateral-Longitudinal Trajectory Tracking for Autonomous Vehicles.
+
+<div class="youtube-video">
+  <iframe
+    src="https://youtube.com/shorts/VU_aiadBjVI?feature=share"
+    title="Controlled Stability Region-Guided Lateral-Longitudinal Trajectory Tracking for Autonomous Vehicles"
+    loading="lazy"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
+<style>
+.youtube-video {
+  position: relative;
+  width: 100%;
+  max-width: 700px;
+  margin: 1.5rem auto;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  background-color: #000;
+  border-radius: 8px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.18);
+}
+
+.youtube-video iframe {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+</style>
+
+<p>
+  If the embedded video cannot be played,
+  <a
+    href="https://www.youtube.com/watch?v=348yDlYR0g0"
+    target="_blank"
+    rel="noopener noreferrer">
+    watch it directly on YouTube →
+  </a>
+</p>
+
 - Retain the path-tracking steering demand as the nominal motion command.
 - Introduce corrective yaw-moment control when the vehicle approaches its stability boundary.
 - Coordinate the two objectives according to the current vehicle state and stability margin.
