@@ -52,7 +52,7 @@ author_profile: true
 
   <a class="research-card" href="/research/model_date_driven_trajectoryplanning/">
     <img
-      src="/images/research/motion-planning.jpg"
+      src="/images/research/motion-planning.png"
       alt="Autonomous-vehicle trajectory planning under extreme conditions"
     >
     <div class="research-card__body">
