@@ -11,17 +11,17 @@ author_profile: true
 
 ## Brief
 
-This project studies how an automated vehicle can continue following its
+This project studies how the stability analysis guide an automated vehicle to continue following its
 desired path while remaining dynamically stable near the limits of tire
 adhesion. The central problem is to coordinate tracking performance and
-stability intervention instead of treating them as two unrelated objectives.
+stability intervention at limits such as high-speed or low adhesion.
 
 ## Challenge
 
 Aggressive path-tracking commands can increase lateral tire demand precisely
-when the available stability margin is small. A stability controller that
-intervenes too late may not recover the vehicle, while an overly conservative
-controller can significantly degrade path-tracking performance.
+when the available stability margin is small. Without a stability controller 
+may not recover the vehicle from unstable, while an overly conservative
+controller intervention can significantly degrade path-tracking performance under extreme conditions.
 
 ## Approach
 
@@ -74,9 +74,13 @@ controller can significantly degrade path-tracking performance.
 
 ## Related publication
 
+**Chengye Wang**, Shaoyang Shi, Yu Zhang, and Yechen Qin,
+"Controlled Stability Region-Guided Lateral-Longitudinal Trajectory Tracking for Autonomous Vehicles" 
+IEEE Transactions on Industrial Electronics, under review.
+
 **Chengye Wang**, Yu Zhang, Xuepeng Hu, Shaoyang Shi, Jingqi He, and Yechen Qin,
 "Coordinated Tracking and Stability Control of Automated Vehicles at the
-Limits: A Controlled Stability Region Approach," 2026 IEEE 29th International
+Limits: A Controlled Stability Region Approach" 2026 IEEE 29th International
 Conference on Intelligent Transportation Systems (ITSC), accepted.
 
 <a class="research-back" href="/research/">← Back to all research</a>
