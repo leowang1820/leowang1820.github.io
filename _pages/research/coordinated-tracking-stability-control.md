@@ -75,8 +75,7 @@ controller intervention can significantly degrade path-tracking performance unde
 ## Related publication
 
 **Chengye Wang**, Shaoyang Shi, Yu Zhang, and Yechen Qin,
-"Controlled Stability Region-Guided Lateral-Longitudinal Trajectory Tracking for Autonomous Vehicles" 
-IEEE Transactions on Industrial Electronics, under review.
+"Controlled Stability Region-Guided Lateral-Longitudinal Trajectory Tracking for Autonomous Vehicles", IEEE Transactions on Industrial Electronics, under review.
 
 **Chengye Wang**, Yu Zhang, Xuepeng Hu, Shaoyang Shi, Jingqi He, and Yechen Qin,
 "Coordinated Tracking and Stability Control of Automated Vehicles at the
