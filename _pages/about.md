@@ -84,4 +84,4 @@ The CV can be downloaded [here](https://leowang1820.github.io/files/cv/CV_CWangV
 :sun_with_face: Team
 ------
 {: #team}
-Currently, our team is actively promoting the research of intelligent chassis under the leadership of Associate Professor Yechen Qin. If you want to be involved in this process or have any questions about my/the team’s research, please visit the [team homepage](https://me.bit.edu.cn/szdw/jsml/jlgcx/zdyzskzyjs/bssds3/8f9963637d794ef2a3ad836efd464862.htm) or contact us by email. All emails for academic discussions will be replied within 24 hours.
+Currently, our team is actively promoting the research of intelligent chassis under the leadership of Professor Yechen Qin. If you want to be involved in this process or have any questions about my/the team’s research, please visit the [team homepage](https://me.bit.edu.cn/szdw/jsml/jlgcx/zdyzskzyjs/bssds3/8f9963637d794ef2a3ad836efd464862.htm) or contact us by email. All emails for academic discussions will be replied within 24 hours.
