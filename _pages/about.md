@@ -79,7 +79,7 @@ I am very motivated and passionate about combing the vehicle dynamic with advanc
 :page_facing_up: CV
 ------
 {: #cv}
-The CV can be downloaded [here](https://leowang1820.github.io/files/cv/CV_CWangV6.pdf).
+The CV can be downloaded [here](https://leowang1820.github.io/files/cv/CV_CWangV6_Overleaf.pdf).
 
 :sun_with_face: Team
 ------
