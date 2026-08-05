@@ -43,7 +43,7 @@ I am very motivated and passionate about combing the vehicle dynamic with advanc
 {: #publications}
 **Journal Papers**(Provide orginal text whenever possible)
 
-1. 张钰, **王成烨**, 杜甫, 董明明, 秦也辰 and 毛明. ["Dynamic Region of Stability Integrated Path-tracking Control for Intelligent Vehicles"](https://leowang1820.github.io/files/artilce/基于动态稳定边界的智能车辆路径跟踪控制方法_张钰.pdf), Chinese Journal of Mechanical Engineering. (**Accepted**, **IF=4.5, Q1**)
+1. 张钰, **王成烨**, 杜甫, 董明明, 秦也辰 and 毛明. ["Dynamic Region of Stability Integrated Path-tracking Control for Intelligent Vehicles"](https://leowang1820.github.io/files/artilce/基于动态稳定边界的智能车辆路径跟踪控制方法_张钰.pdf), Chinese Journal of Mechanical Engineering. (**Accepted**)
 
 2. Hu, XuePeng; Zhang, Yu; **Wang, Chengye**; Wang, Zhenfeng; Qin, Yechen["MCTP: A Multi-Coupled Dynamics Trajectory Planning Scheme for Autonomous Driving in Extreme Conditions"](https://leowang1820.github.io/files/artilce/Hu等MCTP.pdf), IEEE Transactions on Automation Science and Engineering. (**Accepted**, **IF=6.4, Q2, TOP**)
 
