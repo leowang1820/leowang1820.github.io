@@ -52,6 +52,9 @@ I am very motivated and passionate about combing the vehicle dynamic with advanc
 4. **Chengye Wang**, Shaoyang Shi, Yu Zhang, and Yechen Qin,
 "Controlled Stability Region-Guided Lateral-Longitudinal Trajectory Tracking for Autonomous Vehicles", IEEE Transactions on Industrial Electronics. (**Under review**, **IF=7.4, Q1, TOP**)
 
+5. Shaoyang Shi, Kai Yang, **Chengye Wang**, Dongwei Li, Yu Zhang and Yechen Qin, "Self-Evolving Reinforcement Learning Framework for Autonomous Driving via Uncertainty-Aware Collision-Risk Supervision", IEEE Transactions on Automation Science and Engineering. ((**Under review**, **IF=7.9, Q2, TOP**))
+
+
 **Conference Proceedings**
 
 1. Shaoyang Shi, Yu Zhang, Kai Yang, **Chengye Wang**, Zhenfeng Wang, Yechen Qin.  "A Risk-Aware Decision Making and Motion Planning Framework for Interactive Autonomous Driving", 2026 IEEE 29th International Conference on Intelligent Transportation Systems (ITSC), Naples, Italy.IEEE. (**Accepted**)
