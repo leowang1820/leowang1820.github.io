@@ -120,5 +120,5 @@ for physics-consistent motion generation with data-driven decision-making for co
 
 1. Shaoyang Shi, Yu Zhang, Kai Yang, **Chengye Wang**, Zhenfeng Wang, and Yechen Qin, "A Risk-Aware Decision Making and Motion Planning Framework for Interactive Autonomous Driving," ITSC 2026, accepted.
 2. Xuepeng Hu, Yu Zhang, **Chengye Wang**, Zhenfeng Wang, and Yechen Qin, "[MCTP: A Multi-Coupled Dynamics Trajectory Planning Scheme for Autonomous Driving in Extreme Conditions](https://leowang1820.github.io/files/artilce/Hu等MCTP.pdf)," IEEE Transactions on Automation Science and Engineering, accepted.
-
+3. Shaoyang Shi, Kai Yang, **Chengye Wang**, Dongwei Li, Yu Zhang and Yechen Qin, "Self-Evolving Reinforcement Learning Framework for Autonomous Driving via Uncertainty-Aware Collision-Risk Supervision", IEEE Transactions on Automation Science and Engineering. (**Under review**, **IF=7.9, Q2, TOP**)
 <a class="research-back" href="/research/">← Back to all research</a>
