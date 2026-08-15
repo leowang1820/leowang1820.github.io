@@ -44,7 +44,7 @@ and its experimental capabilities.
 
 <div class="youtube-video">
   <iframe
-    src="https://youtu.be/h1ClpPrQTNE"
+    src="https://www.youtube.com/embed/h1ClpPrQTNE"
     title="Distributed-Drive Electric Vehicle Experimental Platform"
     loading="lazy"
     referrerpolicy="strict-origin-when-cross-origin"
