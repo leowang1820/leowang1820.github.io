@@ -44,7 +44,7 @@ and its experimental capabilities.
 
 <div class="youtube-video">
   <iframe
-    src="https://www.youtube.com/embed/7PLLaiRjjvM"
+    src="https://youtu.be/h1ClpPrQTNE"
     title="Distributed-Drive Electric Vehicle Experimental Platform"
     loading="lazy"
     referrerpolicy="strict-origin-when-cross-origin"
@@ -77,7 +77,7 @@ and its experimental capabilities.
 <p>
   If the embedded video cannot be played,
   <a
-    href="https://www.youtube.com/watch?v=7PLLaiRjjvM"
+    href="https://youtu.be/h1ClpPrQTNE"
     target="_blank"
     rel="noopener noreferrer">
     watch it directly on YouTube →
