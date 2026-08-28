@@ -15,7 +15,7 @@ I got my Bachelor's degree at the [College of Automotive Engneering](https://aut
 
 My research interests focus on trajectory planning and motion control of autonomous vehicles especially under extreme scenarios. Based on traditional vehicle dynamic method, i am now thrilled to try to apply the advanced technology such as machine learning into improving the motion performance under complex envrionments. 
 
-I am very motivated and passionate about combing the vehicle dynamic with advanced technology. I am now open to PhD positions especially in leaning-based control and planning of autonomous vehicles. Please feel free to reach out! [Here](leowang1820.github.io/files/Reasearch_Portfolio/research_ChengyeWang.pdf) is me Reasearch Portfolio
+I am very motivated and passionate about combing the vehicle dynamic with advanced technology. I am now open to PhD positions especially in leaning-based control and planning of autonomous vehicles. Please feel free to reach out! [Here](https://leowang1820.github.io/files/Reasearch_Portfolio/research_ChengyeWang.pdf) is me Reasearch Portfolio
 
 :exclamation: News
 ======
